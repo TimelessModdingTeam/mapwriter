@@ -1,8 +1,14 @@
-mapwriter
+MapWriter TE
 =========
 
-MapWriter: A minimap mod for Minecraft
+MapWriter: An opensource minimap mod for Minecraft
 
+# The team
+## Managers
+Kash
+
+## Programmers
+Reuxertz
 
 Instructions for development:
 
@@ -29,6 +35,7 @@ Reobfuscation and Packaging:
 
 Acknowledgements:
 
+* Vectron for maintain a well kept version 1.7.10/1.8
 * Chrixian for the code to get death markers working.
 * ProfMobius for the overlay API.
 * taelnia for extrautils compatibility patch.
